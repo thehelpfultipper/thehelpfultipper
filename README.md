@@ -24,7 +24,7 @@ About Us: [https://thehelpfultipper.com/about-us/](https://thehelpfultipper.com/
 ✨ Follow Us ✨
 - Codepen: [https://codepen.io/thehelpfultipper](https://codepen.io/thehelpfultipper)
 - Insta: [https://www.instagram.com/dm.tht/?hl=en](https://www.instagram.com/dm.tht/?hl=en)
-- Pint: [https://in.pinterest.com/thehelpfultipper/_created/](https://in.pinterest.com/thehelpfultipper/_created/)
+- Pint: [https://pinterest.com/thehelpfultipper/_created/](https://pinterest.com/thehelpfultipper/_created/)
 
 <!---
 thehelpfultipper/thehelpfultipper is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
